@@ -121,20 +121,9 @@ outputStream.close();
 
 - [X] Conexão Cliente ao Servidor
 - [X] Multithread do Servidor
-- [ ] Função de Download
-- [ ] Função de Download com verificação de existência
+- [X] Função de Download
+- [X] Função de Download com verificação de existência
 - [X] Função de Upload
 - [X] Função de Upload com verificação de existência
 - [X] Passar informações como argumento de linha de comando
 - [ ] Arquivo UML
-
-
-## Imagens do programa
-Conexão e envio de arquivo pelo client
-![UploadClient](assets/UploadClient.png)
-
-
-Conexão e recebimento de arquivo pelo server
-![UploadServer](assets/UploadServer.png)
-
-Notem que a pasta arquivosRecebidos do server contêm o mesmo arquivo da pasta arquivosEnviados do client, indicando que o envio ocorreu.
