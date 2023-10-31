@@ -1,0 +1,16 @@
+Path for java installation '/usr/lib/jvm/openjdk-17' (Common Linux Locations) does not contain a java executable
+> Task :app:compileJava UP-TO-DATE
+> Task :app:processResources NO-SOURCE
+> Task :app:classes UP-TO-DATE
+
+> Task :app:run
+Aguardando por conexoes em: 0.0.0.0/0.0.0.0:1234
+ (pressione CTRL+C para encerrar o processo)
+
+
+Aguardando por conexoes em: 0.0.0.0/0.0.0.0:1234
+ (pressione CTRL+C para encerrar o processo)
+
+
+lorem-ipsum.txtIrure deserunt commodo id esse exercitation nulla nulla fugiat laboris commodo sit deserunt duis cupidatat. Sit do id voluptate incididunt qui aute aute duis tempor elit. Pariatur do proident voluptate culpa aliqua proident. Minim enim anim ullamco id enim ullamco dolor. Sit deserunt cillum aute proident magna laborum consequat tempor officia ad. Aliqua qui veniam sit ad dolore ex fugiat consectetur dolore voluptate aliqua est do labore. Fugiat ipsum tempor deserunt elit qui amet aliquip aliqua nulla sit.
+set;lorem-ipsum.txtIrure deserunt commodo id esse exercitation nulla nulla fugiat laboris commodo sit deserunt duis cupidatat. Sit do id voluptate incididunt qui aute aute duis tempor elit. Pariatur do proident voluptate culpa aliqua proident. Minim enim anim ullamco id enim ullamco dolor. Sit deserunt cillum aute proident magna laborum consequat tempor officia ad. Aliqua qui veniam sit ad dolore ex fugiat consectetur dolore voluptate aliqua est do labore. Fugiat ipsum tempor deserunt elit qui amet aliquip aliqua nulla sit.
